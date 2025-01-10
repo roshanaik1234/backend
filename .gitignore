@@ -1,0 +1,18 @@
+# Node.js specific ignores
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+*.log
+logs/
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# IDEs
+.vscode/
+.idea/
+*.swp          # Vim swap files
